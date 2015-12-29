@@ -1,0 +1,2 @@
+After initializing the repository, git repository is created
+staging area offers an enclosed space to stage your code prior to commiting - last check to make sure your code is thorughly checked and debugged - if need be, you can pull your code from staging and reworking, then re-stage...ect.
